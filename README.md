@@ -1,6 +1,6 @@
 ### Minimum-edges-to-reverse-to-make-a-path-from-source-to-destination
 
-##Description 
+## Description 
 Given a directed graph and a source node and destination node, we need to find how many edges we need to reverse in order to make at least 1 path from source node to destination node.
 
 
@@ -10,6 +10,6 @@ if it is possible
 
 ----
 
-##Contributors
+## Contributors
 - Hasbi Hamza <hamza.hasbi@gmail.com> 
 
